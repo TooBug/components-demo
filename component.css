@@ -1,0 +1,12 @@
+.input{
+	font-size:100px;
+    border: 5px solid #CCC;
+    width: 600px;
+}
+.dropdown{
+	font-size:100px;
+	color:red;
+    border: 5px solid #F00;
+    width: 600px;
+    display: none;
+}
